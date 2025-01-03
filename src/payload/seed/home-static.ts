@@ -7,8 +7,8 @@ export const staticHome: Page = {
   createdAt: '',
   updatedAt: '',
   meta: {
-    title: 'Payload E-Commerce Template',
-    description: 'An open-source e-commerce store built with Payload and Next.js.',
+    title: 'HiveMind E-Ticaret Paketi',
+    description: 'E Ticaret Soft Paket',
   },
   hero: {
     type: 'lowImpact',
